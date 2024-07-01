@@ -282,7 +282,7 @@
 
   .nav-options .nav-item:nth-child(1),
   .nav-options .nav-item:nth-child(1) button{
-    color: blueviolet;
+    color: rgb(43, 226, 211);
   }
   .nav-item label{
     font-size: 11px;

@@ -97,7 +97,7 @@
     height: auto;
     border-radius: 20px;
     border-bottom: white;
-    background-color: blueviolet;
+    background-color: rgb(43, 226, 211);
     display: flex;
     flex-direction: column;
     padding: 10px;
@@ -225,7 +225,7 @@ hr{
   
   .nav-options .nav-item:nth-child(3),
   .nav-options .nav-item:nth-child(3) mat-icon{
-    color: blueviolet;
+    color: rgb(43, 226, 211);
   }
   .nav-item label{
     font-size: 11px;
