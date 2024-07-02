@@ -67,7 +67,7 @@ this.spnValue = 1
       {
         let order_details = {
           quantity: 1,
-          Total:ode.price,
+          Total:ode.price * ode.quantity,
           order:ode
         }
         // my_orders.push()
